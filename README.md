@@ -26,15 +26,13 @@ Here are some ideas to get you started:
 
 ---
 
-
 ### 📕 Courses:
 
 <!-- COURSES-LIST:START -->
-
 -   #### Front-End (HTML, CSS, JS)
 
     -   [she codes; / Web Development](https://she-codes.org/he/home-heb/)
-    -   [JavaScript Web Projects: 20 Projects / Andrei Neagoie, Jacinto Wong](https://www.udemy.com/course/javascript-web-projects-to build-your-portfolio-resume/)
+    -   [JavaScript Web Projects / Andrei Neagoie, Jacinto Wong](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
 
 <!-- COURSES-LIST:END -->
 
