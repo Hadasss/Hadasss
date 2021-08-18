@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Hadas Kamin 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my frontend skills.
@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a project or contribute to open source projects.
 - 😄 I'm looking for a junior frontend position or internship.
 
+<link src="https://github-readme-stats.vercel.app/api?username=Hadasss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### ✉️ Connect with me:
 
