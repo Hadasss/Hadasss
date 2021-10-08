@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
     -   [she codes; / Web Development](https://she-codes.org/he/home-heb/)
     -   [JavaScript Web Projects / Andrei Neagoie, Jacinto Wong](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+    -   [The Complete JavaScript Course 2021: From Zero to Expert! / Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+
 
 <!-- COURSES-LIST:END -->
 
