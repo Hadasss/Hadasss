@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my fullstack developing skills.
 - 🌱 I’m constantly learning new skills and technologies.
 - 👯 I’m looking to collaborate on a project or contribute to open source projects.
-- 😄 I'm looking for a junior frontend position or internship.
+- 😄 I'm looking for a junior position or internship.
 
 
 <!--  
