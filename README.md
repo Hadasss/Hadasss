@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <!-- COURSES-LIST:START -->
 -   #### Front-End (HTML, CSS, JS)
 
+    -   University of Arizona / Full Stack Web Development Certification
     -   [she codes; / Web Development](https://she-codes.org/he/home-heb/)
     -   [The Complete JavaScript Course 2021: From Zero to Expert! / Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
