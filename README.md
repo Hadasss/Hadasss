@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Tailwind" width="26px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" alt="Handlebars" width="26px" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/>
 <br />
 <br />
 
