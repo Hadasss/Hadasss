@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/26/000000/node-js.png"/>
 <img align="left" alt="Tailwind" width="26px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <br />
 <br />
 
