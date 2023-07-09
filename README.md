@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Handlebars" width="26px" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/>
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angular"/>
+<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <br />
 <br />
 
